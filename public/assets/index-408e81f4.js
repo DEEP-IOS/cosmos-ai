@@ -1,0 +1,1 @@
+function e(t){return Object.prototype.toString.call(t)==="[object Number]"}function r(t){return Object.prototype.toString.call(t)==="[object String]"}function n(t){return/\.(png|jpg|jpeg|gif|webp|svg|psd|bmp|tif)$/.test(t)}export{r as a,n as b,e as i};
