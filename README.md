@@ -1,11 +1,15 @@
 # Cosmos-AI
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) 
-[![Build Status](https://travis-ci.org/DEEP-IOS/cosmos-ai.svg?branch=master)](https://travis-ci.org/DEEP-IOS/cosmos-ai)
-[![codecov](https://codecov.io/gh/DEEP-IOS/cosmos-ai/branch/master/graph/badge.svg)](https://codecov.io/gh/DEEP-IOS/cosmos-ai)
+[![License](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-cosmos--ai.cc-brightgreen)](https://cosmos-ai.cc)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Cosmos_AI_2025?label=Follow&style=social)](https://x.com/Cosmos_AI_2025)
 
 ## Overview
 Cosmos-AI is an innovative solution that leverages state-of-the-art Large Language Models (LLMs) and artificial intelligence algorithms for intelligent task decomposition, allocation, and collaborative scheduling. Our goal is to enhance the efficiency of managing complex project workflows by providing a powerful, flexible, and easy-to-integrate tool that boosts productivity and fosters better team collaboration.
+
+Official Website: [cosmos-ai.cc](https://cosmos-ai.cc)
+
+Follow us on Twitter: [@Cosmos_AI_2025](https://x.com/Cosmos_AI_2025)
 
 ## Key Features
 - **Intelligent Task Decomposition**: Automatically break down complex project tasks into actionable subtasks using advanced AI algorithms.
